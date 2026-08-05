@@ -391,7 +391,7 @@ Every episode ends with restored physical order, emotional warmth, and a peacefu
 
 ## Universe — Critter Haven Resort
 
-Our flagship IP is **Critter Haven Resort** — a secret 5-star luxury pet resort hidden inside a suburban bedroom's plastic hamster cage network. To the human eye, it's just cages and wood shavings. To the resident hamsters, guinea pigs, geckos, and mice, it's an exclusive resort where tiny pets live like royalty whenever their owner leaves home.
+Our flagship IP is **Critter Haven Resort** — a secret 5-star luxury pet resort hidden inside a suburban bedroom's plastic hamster cage network. To the human eye, it's just cages and wood shavings. To the resident hamsters, guinea pigs, geckos, mice, lions, monkeys, owls, pandas, rhinos, and visiting critter guests, it's an exclusive luxury resort where animals live like royalty whenever their owner leaves home.
 
 **Core Fantasy:**  
 > *"Step inside the secret, cozy magic of a 5-star luxury resort hidden inside a plastic hamster cage, where tiny pets live like royalty the moment their humans leave home."*

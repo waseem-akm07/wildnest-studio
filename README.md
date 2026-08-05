@@ -62,7 +62,7 @@ Our goal is to create characters and stories that audiences **remember, share, a
 
 **Critter Haven Resort** is a secret 5-star luxury pet resort hidden inside a suburban bedroom's plastic hamster cage network.
 
-To the human eye, it's just cages and wood shavings. To the resident hamsters, guinea pigs, geckos, and mice, it's an exclusive resort where tiny pets live like royalty — but only between **8:00 AM** (when the human leaves) and **5:00 PM** (when the human returns).
+To the human eye, it's just cages and wood shavings. To the resident hamsters, guinea pigs, geckos, mice, lions, monkeys, owls, pandas, rhinos, and visiting critter guests, it's an exclusive luxury resort where animals live like royalty — but only between **8:00 AM** (when the human leaves) and **5:00 PM** (when the human returns).
 
 ### The Core Fantasy
 
@@ -125,6 +125,20 @@ GOLDEN AMBER (60%)     CREAM WHITE (30%)     SIGNAL RED (10%)     COCOA EYES (FO
 1. **Cheek-Stuffing Panic:** Stuffs nearby objects into cheek pouches when overwhelmed — head swells to 3x size.
 2. **The Bowtie Straighten:** After surviving a disaster, immediately dusts off fur and adjusts his tiny red twist-tie bowtie.
 3. **The 1.5-Second Reaction Hold:** Freezes for 36 frames with pin-prick pupils before exploding into motion.
+
+### Multi-Category Character Universe & Animal Franchise Lines
+
+WildNest Studio develops character IP across **4 distinct animal categories** loved by kids worldwide, serving both as VIP resort guests in *Critter Haven Resort* and stars of dedicated spin-off series:
+
+| Category & Series Line | Character | Species | Signature Role & Appeal | Profile |
+| :--- | :--- | :--- | :--- | :--- |
+| **Pet Resort Line** | **Barnaby Q. Whiskers** (CHR-001) | Golden Syrian Hamster | Anxious General Manager / Perfectionist | [CHR-001](file:///e:/Animation/wildnest-studio/docs/04_Characters/01_Main_Character_001.md) |
+| **Pet Resort Line** | **Pip** (CHR-002) | Roborovski Dwarf Hamster | Lead Mechanic / High-Speed Gadgeteer | [CHR-002](file:///e:/Animation/wildnest-studio/docs/04_Characters/02_Pip_CHR-002.md) |
+| **Savannah & Jungle Line** | **Leo** (CHR-003) | African Lion Cub | Dramatic Regal King / Ultra-VIP Guest | [CHR-003](file:///e:/Animation/wildnest-studio/docs/04_Characters/03_Leo_CHR-003.md) |
+| **Savannah & Jungle Line** | **Milo** (CHR-004) | Squirrel Monkey | Acrobat & Gadget Tinkerer / Button Presser | [CHR-004](file:///e:/Animation/wildnest-studio/docs/04_Characters/04_Milo_CHR-004.md) |
+| **Night Shift & Wisdom Line** | **Ollie** (CHR-005) | Great Horned Owl Cub | Night-Shift Manager / Eccentric Scientist | [CHR-005](file:///e:/Animation/wildnest-studio/docs/04_Characters/05_Ollie_CHR-005.md) |
+| **Cozy Comfort & Powerhouse** | **Bao** (CHR-006) | Giant Panda Cub | Head Chef & Gourmet Foodie / Hug Specialist | [CHR-006](file:///e:/Animation/wildnest-studio/docs/04_Characters/06_Bao_CHR-006.md) |
+| **Cozy Comfort & Powerhouse** | **Rocco** (CHR-007) | White Rhinoceros Calf | Heavy Duty Luggage Handler / Gentle Giant | [CHR-007](file:///e:/Animation/wildnest-studio/docs/04_Characters/07_Rocco_CHR-007.md) |
 
 ---
 

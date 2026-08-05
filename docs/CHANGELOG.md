@@ -71,7 +71,12 @@ WildNest Studio follows **Semantic Versioning (SemVer 2.0.0)** adapted for anima
   * `STD-PROMPT-001`: Prompt Engineering Standards (`standards/Prompt_Standard.md`)
   * `STD-CODE-001`: Automation & Coding Standards (`standards/Coding_Standard.md`)
   * `STD-RES-001`: Research & Evidence Standards (`standards/Research_Standard.md`)
-* **New Character Specification:** Created `docs/04_Characters/02_Pip_CHR-002.md` for Pip the Dwarf Hamster (Lead Mechanic).
+* **Multi-Category Character Line Expansion:** Engineered 5 new canonical character specifications for kid-favorite animals across 4 studio franchise lines:
+  * `03_Leo_CHR-003.md`: Leo the African Lion Cub (Dramatic Regal King / Ultra-VIP Resort Guest)
+  * `04_Milo_CHR-004.md`: Milo the Squirrel Monkey (Acrobat & Gadget Tinkerer)
+  * `05_Ollie_CHR-005.md`: Ollie the Great Horned Owl Cub (Night-Shift Manager & Scientist)
+  * `06_Bao_CHR-006.md`: Bao the Giant Panda Cub (Head Chef & Gourmet Foodie)
+  * `07_Rocco_CHR-007.md`: Rocco the White Rhinoceros Calf (Heavy Maintenance & Gentle Powerhouse)
 * **Directory Index Guides:** Rewrote 23 `index.md` files across `assets/`, `docs/`, `episodes/`, `production/`, `prompts/`, `standards/`, `automation/`, `tools/`, `branding/`, `experiments/`, `research/`, and `templates/`.
 
 #### Cleaned & Removed (Workspace Audit)
