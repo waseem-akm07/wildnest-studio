@@ -94,24 +94,35 @@ WildNest Studio follows **Semantic Versioning (SemVer 2.0.0)** adapted for anima
 * **First-Principles Evaluation Beats Bias:** Merging *Hamster Haven Resort* with *The Lost Socket Society* (scavenged object craft) elevated the CEF score from 94.5 to **95.5**, and subsequent Executive Board refinement pushed it to **96.0**.
 * **1.5-Second Reaction Holds Drive Comedy:** Freezing keyframes for 36 frames with pin-prick pupils amplifies physical slapstick punchlines by 300%.
 
-#### Next Phase (`v1.1.0`)
-* Generate 3D character turnaround renders and train locked Flux/SDXL LoRA weights for Barnaby CHR-001.
-* Create master 3D environment NeRF models for the Central Lobby Tower.
-* Lock the screenplay for Pilot Episode EP-001 (*"The Grand Opening Chaos"*).
+#### Next Phase Rollout Structure (`v1.1.0` – `v2.0.0`)
+The studio's production rollout follows a strict 4-stage progressive validation framework:
+
+```
+  STAGE 1: 5 ANIMATION TESTS ──► STAGE 2: 10 YOUTUBE SHORTS ──► STAGE 3: AUDIENCE FEEDBACK ──► STAGE 4: EPISODE 001
+  (Pipeline & Motion Lock)       (Public Viral Validation)       (Data Analytics & Iteration)   (Flagship Pilot Launch)
+```
+
+1. **Stage 1 (5 Animation Tests):** Execute 5 technical pipeline tests validating character LoRA consistency, 1.5s reaction holds, tube water physics, non-verbal audio mixing, and Hinglish dialogue cadence.
+2. **Stage 2 (10 YouTube Shorts):** Produce and publish 10 high-hook 15–30 second YouTube Shorts to validate visual slapstick, thumbnail CTR, and initial audience acquisition.
+3. **Stage 3 (Audience Feedback & Optimization):** Analyze 30s audience retention curves, comment sentiment, and CTR metrics from the 10 Shorts to fine-tune character acting and story mechanics.
+4. **Stage 4 (Episode 001 Release):** Lock screenplay, assemble, and publish the official pilot episode (*"The Grand Opening Chaos"*).
 
 ---
 
 ## 5. Future Releases Roadmap
 
-* **`v1.1.0` — Pre-Production Visual Assets & Screenplay Lock:**
-  * Draft screenplay for EP-001 (*"The Grand Opening Chaos"*).
-  * Generate master character LoRA models & environment asset packs.
-* **`v1.2.0` — Pilot Episode Render & QA Lock:**
-  * Complete NLE timeline assembly, SFX mixing, and 3-track SRT subtitle attachment.
-  * Execute 7-Gate QA audit and upload EP-001 master to YouTube.
-* **`v2.0.0` — Season 1 Distribution & Franchise Scaling:**
-  * Launch Season 1 (24 Episodes + 50 Shorts).
-  * Roll out *Critter Haven Tycoon* mobile casual game & plushie line pre-orders.
+```
+[5 Animation Tests] ──► [10 YouTube Shorts] ──► [Audience Feedback] ──► [Episode 001]
+```
+
+* **`v1.1.0` — Stage 1: 5 Animation Tests (Pipeline Validation):**
+  * Execute 5 internal technical tests for Barnaby character motion, lighting shaders, non-verbal squeak mixing, water tube physics, and ControlNet keyframing.
+* **`v1.2.0` — Stage 2: 10 YouTube Shorts (Viral Validation):**
+  * Produce and publish 10 standalone 15-30s YouTube Shorts to test visual slapstick comedy, thumbnail CTR (>10.5%), and early subscriber growth.
+* **`v1.3.0` — Stage 3: Audience Feedback & Optimization:**
+  * Process viewer retention graphs, comment feedback, and CTR performance data; apply pipeline fixes and script adjustments.
+* **`v2.0.0` — Stage 4: Episode 001 Release (*"The Grand Opening Chaos"*):**
+  * Lock script, assemble 150s NLE master, run 7-Gate QA audit, attach 3 SRT subtitle tracks, and publish Flagship Pilot Episode 001 on YouTube.
 
 ---
 

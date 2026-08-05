@@ -16,7 +16,11 @@ This document serves as the official **Episode Brief (EP-001)** for the pilot ep
 
 In Episode 001, Barnaby Q. Whiskers (the anxious Syrian Hamster General Manager) attempts to execute a flawless 5-star grand opening of *Critter Haven Resort* the moment his human owner leaves for work at 8:00 AM. However, a sudden water-bottle tube leak threatens to flood the Central Lobby Tower, forcing Barnaby into a frantic battle against rising water, cheek-stuffing panics, and his own perfectionism—all while racing against the relentless ticking clock of the owner's 5:00 PM return.
 
-Designed as a showcase pilot for WildNest Studio’s AI-first production system (WPOS-001), this episode delivers 100% non-verbal pantomime slapstick, high Kindchenschema cuteness, and a clear demonstration of the series narrative engine.
+```
+[5 Animation Tests] ──► [10 YouTube Shorts] ──► [Audience Feedback & Optimization] ──► [Episode 001 Release]
+```
+
+Episode 001 represents **Stage 4** of the studio's progressive production rollout. It is launched following the successful execution and public validation of Stage 1 (5 Animation Tests), Stage 2 (10 YouTube Shorts), and Stage 3 (Audience Feedback Analysis), ensuring that character LoRAs, visual slapstick timing, and audience retention mechanics are fully optimized before pilot launch.
 
 ---
 
