@@ -16,6 +16,14 @@ Every insight collected in this section should help WildNest Studio make better 
 
 # Research Principles
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [01_Market_Research/](file:///e:/Animation/wildnest-studio/docs/01_Market_Research/index.md) ──► `index.md`  
+> 🎯 **Canonical Source:** [PRD-001 Master PRD](file:///e:/Animation/wildnest-studio/docs/00_Vision/01_WildNest_Product_Requirements_Document.md)  
+> 📜 **Governing Standard:** [STD-RES-001 Research Standard](file:///e:/Animation/wildnest-studio/standards/Research_Standard.md)  
+
+---
+
+
 - Study patterns, not personalities.
 - Learn from successes and failures.
 - Never copy characters, stories, or art styles.

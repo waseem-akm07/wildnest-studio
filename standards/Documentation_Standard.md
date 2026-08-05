@@ -7,6 +7,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [standards/](file:///e:/Animation/wildnest-studio/standards/index.md) ──► `Documentation_Standard.md`  
+> 🎯 **Canonical Source:** [PRD-001 Master PRD](file:///e:/Animation/wildnest-studio/docs/00_Vision/01_WildNest_Product_Requirements_Document.md)  
+> 📜 **Governing Standard:** [STD-DOC-001 Documentation Standard](file:///e:/Animation/wildnest-studio/standards/Documentation_Standard.md)  
+
+---
+
+
 ## 1. Overview
 
 This document specifies the formatting, structure, version control, and maintenance standards for all markdown documentation in **WildNest Studio**. As a documentation-first AI studio, our documentation is our primary operating software.

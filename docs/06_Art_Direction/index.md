@@ -1,5 +1,13 @@
 # Art Direction & Visual Style Guide
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [06_Art_Direction/](file:///e:/Animation/wildnest-studio/docs/06_Art_Direction/index.md) ──► `index.md`  
+> 🎯 **Canonical Source:** [ART-001 Visual Style Guide](file:///e:/Animation/wildnest-studio/docs/06_Art_Direction/01_Visual_Style_Guide.md)  
+> 📜 **Governing Standard:** [STD-DESIGN-001 Design Standard](file:///e:/Animation/wildnest-studio/standards/Design_Standard.md)  
+
+---
+
+
 > **Purpose:** Art direction, visual aesthetic specifications, color palettes, lighting standards, and rendering guidelines.
 
 ## Master Document

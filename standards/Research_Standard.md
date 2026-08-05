@@ -7,6 +7,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [standards/](file:///e:/Animation/wildnest-studio/standards/index.md) ──► `Research_Standard.md`  
+> 🎯 **Canonical Source:** [PRD-001 Master PRD](file:///e:/Animation/wildnest-studio/docs/00_Vision/01_WildNest_Product_Requirements_Document.md)  
+> 📜 **Governing Standard:** [STD-DOC-001 Documentation Standard](file:///e:/Animation/wildnest-studio/standards/Documentation_Standard.md)  
+
+---
+
+
 ## 1. Overview
 
 This document specifies the research standards, evidence evaluation rules, and whitepaper formatting guidelines for all analytical research conducted at **WildNest Studio** inside `research/` and `docs/01_Market_Research/` (derived from `WRS-001`).

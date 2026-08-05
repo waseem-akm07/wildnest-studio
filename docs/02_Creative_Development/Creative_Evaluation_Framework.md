@@ -8,6 +8,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [02_Creative_Development/](file:///e:/Animation/wildnest-studio/docs/index.md) ──► `Creative_Evaluation_Framework.md`  
+> 🎯 **Canonical Source:** [CEF-001 Creative Evaluation Framework](file:///e:/Animation/wildnest-studio/docs/02_Creative_Development/Creative_Evaluation_Framework.md)  
+> 📜 **Governing Standard:** [STD-DOC-001 Documentation Standard](file:///e:/Animation/wildnest-studio/standards/Documentation_Standard.md)  
+
+---
+
+
 ## 1. Executive Summary
 
 This handbook defines the official **Creative Evaluation Framework (CEF-001)** for WildNest Studio. In an AI-native animation studio, creative proposals—whether for new IP universes, character profiles, episode scripts, or merchandise lines—must be evaluated through an objective, evidence-based, and repeatable decision system before studio capital, GPU time, or creative labor are deployed.

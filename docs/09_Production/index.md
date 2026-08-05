@@ -1,5 +1,13 @@
 # Production Operating System & MVP Roadmap
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [09_Production/](file:///e:/Animation/wildnest-studio/docs/09_Production/index.md) ──► `index.md`  
+> 🎯 **Canonical Source:** [WPOS-001 AI Production Pipeline OS](file:///e:/Animation/wildnest-studio/docs/09_Production/01_AI_Production_Pipeline.md)  
+> 📜 **Governing Standard:** [STD-PROD-001 Production Standard](file:///e:/Animation/wildnest-studio/standards/Production_Standard.md)  
+
+---
+
+
 > **Purpose:** Technical production pipeline architecture, capability frameworks, toolchain specifications, and execution roadmaps.
 
 ## Canonical Documents

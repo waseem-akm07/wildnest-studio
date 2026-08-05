@@ -9,6 +9,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [prompts/](file:///e:/Animation/wildnest-studio/docs/index.md) ──► `02_Negative_Prompt.md`  
+> 🎯 **Canonical Source:** [WPOS-001 AI Production Pipeline OS](file:///e:/Animation/wildnest-studio/docs/09_Production/01_AI_Production_Pipeline.md)  
+> 📜 **Governing Standard:** [STD-PROD-001 Production Standard](file:///e:/Animation/wildnest-studio/standards/Production_Standard.md)  
+
+---
+
+
 ## 1. Executive Summary & QA Philosophy
 
 This document defines the official **Negative Prompt Specification (PROMPT-NEG-001)** for Barnaby Q. Whiskers (CHR-001). Engineered by the Quality Assurance Prompt Engineer, this system provides a defense-in-depth negative prompting framework designed to neutralize AI model bias, eliminate visual artifacts, prevent anatomical drift, and enforce 100% brand adherence across image and video generation pipelines.

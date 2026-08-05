@@ -8,6 +8,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [02_Creative_Development/](file:///e:/Animation/wildnest-studio/docs/index.md) ──► `04_Flagship_Universe_Refinement.md`  
+> 🎯 **Canonical Source:** [CEF-001 Creative Evaluation Framework](file:///e:/Animation/wildnest-studio/docs/02_Creative_Development/Creative_Evaluation_Framework.md)  
+> 📜 **Governing Standard:** [STD-DOC-001 Documentation Standard](file:///e:/Animation/wildnest-studio/standards/Documentation_Standard.md)  
+
+---
+
+
 ## 1. Executive Summary
 
 This executive document presents the final pressure-testing, design refinement, and 10-year franchise valuation conducted by the **Executive Creative Board** of WildNest Studio. Acting as the ultimate creative governing body (analogous to the executive creative boards at Pixar, Disney, DreamWorks, Nintendo, and LEGO), the Board conducted a comprehensive 12-point design review of the Top 3 finalist universes (*Enhanced U005: Hamster Haven Resort*, *U021: Monster Mailroom*, *U081: Train Car Town*).

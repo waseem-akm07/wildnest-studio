@@ -8,6 +8,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [01_Market_Research/](file:///e:/Animation/wildnest-studio/docs/01_Market_Research/index.md) ──► `05_Character_Design_and_Psychology.md`  
+> 🎯 **Canonical Source:** [PRD-001 Master PRD](file:///e:/Animation/wildnest-studio/docs/00_Vision/01_WildNest_Product_Requirements_Document.md)  
+> 📜 **Governing Standard:** [STD-RES-001 Research Standard](file:///e:/Animation/wildnest-studio/standards/Research_Standard.md)  
+
+---
+
+
 ## 1. Executive Summary
 
 This research white paper establishes the comprehensive design, psychological, and commercial standards for character creation at WildNest Studio. In an animated franchise, characters are not merely visual drawings or 3D models; they are the primary intellectual property (IP) assets, emotional anchors, and commercial drivers of the studio.

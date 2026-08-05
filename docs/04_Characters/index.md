@@ -1,5 +1,13 @@
 # Character System & Character Profiles
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [04_Characters/](file:///e:/Animation/wildnest-studio/docs/04_Characters/index.md) ──► `index.md`  
+> 🎯 **Canonical Source:** [CHR-BIBLE-001 Master Character Bible](file:///e:/Animation/wildnest-studio/docs/04_Characters/00_Character_Bible.md)  
+> 📜 **Governing Standard:** [STD-DESIGN-001 Design Standard](file:///e:/Animation/wildnest-studio/standards/Design_Standard.md)  
+
+---
+
+
 > **Purpose:** Master character engineering framework, 9-point character engine, and canonical character profiles.
 
 ## Canonical Documents

@@ -7,6 +7,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [standards/](file:///e:/Animation/wildnest-studio/standards/index.md) ──► `Naming_Convention.md`  
+> 🎯 **Canonical Source:** [PRD-001 Master PRD](file:///e:/Animation/wildnest-studio/docs/00_Vision/01_WildNest_Product_Requirements_Document.md)  
+> 📜 **Governing Standard:** [STD-DOC-001 Documentation Standard](file:///e:/Animation/wildnest-studio/standards/Documentation_Standard.md)  
+
+---
+
+
 ## 1. Overview
 
 This document specifies the mandatory naming conventions across all digital assets, production files, canonical documentation, prompts, code scripts, and rendered media inside **WildNest Studio**. Strict adherence to these conventions prevents asset drift, ensures automated pipeline compatibility, and enables seamless asset discovery.

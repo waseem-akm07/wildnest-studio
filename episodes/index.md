@@ -1,5 +1,13 @@
 # Episodes — Episode Production Files
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [episodes/](file:///e:/Animation/wildnest-studio/episodes/index.md) ──► `index.md`  
+> 🎯 **Canonical Source:** [SB-001 Master Story Bible](file:///e:/Animation/wildnest-studio/docs/05_Story_Bible/00_Story_Bible.md)  
+> 📜 **Governing Standard:** [STD-PROD-001 Production Standard](file:///e:/Animation/wildnest-studio/standards/Production_Standard.md)  
+
+---
+
+
 > **Purpose:** Master directory for all episode production packages — briefs, scripts, shot lists, and production checklists.
 
 ## Structure

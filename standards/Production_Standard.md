@@ -7,6 +7,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [standards/](file:///e:/Animation/wildnest-studio/standards/index.md) ──► `Production_Standard.md`  
+> 🎯 **Canonical Source:** [PRD-001 Master PRD](file:///e:/Animation/wildnest-studio/docs/00_Vision/01_WildNest_Product_Requirements_Document.md)  
+> 📜 **Governing Standard:** [STD-DOC-001 Documentation Standard](file:///e:/Animation/wildnest-studio/standards/Documentation_Standard.md)  
+
+---
+
+
 ## 1. Overview
 
 This document specifies the technical and operational production standards for all animated content produced by **WildNest Studio**. It defines render specs, frame rates, color pipelines, audio mix targets, and quality thresholds across 15-second Shorts, 2.5-minute standard episodes, and 12-minute seasonal specials.

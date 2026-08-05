@@ -10,6 +10,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [EP-001/](file:///e:/Animation/wildnest-studio/docs/index.md) ──► `00_Episode_Brief.md`  
+> 🎯 **Canonical Source:** [SB-001 Master Story Bible](file:///e:/Animation/wildnest-studio/docs/05_Story_Bible/00_Story_Bible.md)  
+> 📜 **Governing Standard:** [STD-PROD-001 Production Standard](file:///e:/Animation/wildnest-studio/standards/Production_Standard.md)  
+
+---
+
+
 ## 1. Executive Summary
 
 This document serves as the official **Episode Brief (EP-001)** for the pilot episode of WildNest Studio’s flagship franchise, *Critter Haven Resort*. It defines the narrative goals, emotional arc, comedic beats, world-building scope, visual requirements, and production parameters before a single line of screenplay dialogue is written.

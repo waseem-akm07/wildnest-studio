@@ -9,6 +9,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [prompts/](file:///e:/Animation/wildnest-studio/docs/index.md) ──► `00_Prompt_Guidelines.md`  
+> 🎯 **Canonical Source:** [WPOS-001 AI Production Pipeline OS](file:///e:/Animation/wildnest-studio/docs/09_Production/01_AI_Production_Pipeline.md)  
+> 📜 **Governing Standard:** [STD-PROD-001 Production Standard](file:///e:/Animation/wildnest-studio/standards/Production_Standard.md)  
+
+---
+
+
 ## 1. Executive Summary & Prompt Philosophy
 
 This document defines the official **Character Prompt Engineering Standard** for WildNest Studio. Engineered by the Lead Prompt Engineer, this guide provides a universal, model-agnostic prompting framework for generating consistent animated characters across all major AI vision models—including **ChatGPT / DALL-E 3, Google Imagen 3, Gemini, Midjourney v6, Flux Dev/Pro, and future AI image generators**.

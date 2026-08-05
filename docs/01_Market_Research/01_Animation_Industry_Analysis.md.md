@@ -8,6 +8,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [01_Market_Research/](file:///e:/Animation/wildnest-studio/docs/01_Market_Research/index.md) ──► `01_Animation_Industry_Analysis.md.md`  
+> 🎯 **Canonical Source:** [PRD-001 Master PRD](file:///e:/Animation/wildnest-studio/docs/00_Vision/01_WildNest_Product_Requirements_Document.md)  
+> 📜 **Governing Standard:** [STD-RES-001 Research Standard](file:///e:/Animation/wildnest-studio/standards/Research_Standard.md)  
+
+---
+
+
 # Executive Summary
 
 This document investigates the current animation ecosystem on YouTube to identify the principles behind successful, long-lasting animation brands.

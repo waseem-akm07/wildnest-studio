@@ -16,6 +16,14 @@ Optimize for depth, evidence, reasoning and actionable insights.
 
 # CONTEXT
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [research/](file:///e:/Animation/wildnest-studio/research/index.md) ──► `AI_Research_Agent.md`  
+> 🎯 **Canonical Source:** [Research Standard WRS-001](file:///e:/Animation/wildnest-studio/research/Research_Standard.md)  
+> 📜 **Governing Standard:** [STD-RES-001 Research Standard](file:///e:/Animation/wildnest-studio/standards/Research_Standard.md)  
+
+---
+
+
 WildNest Studio is an AI-first independent animation studio.
 
 Our long-term objective is to build globally recognized original intellectual property (IP) through recurring animated universes, memorable characters, and high-quality storytelling.

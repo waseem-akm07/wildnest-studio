@@ -1,5 +1,13 @@
 # Docs — Canonical Documentation
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [docs/](file:///e:/Animation/wildnest-studio/docs/index.md) ──► `index.md`  
+> 🎯 **Canonical Source:** [PRD-001 Master PRD](file:///e:/Animation/wildnest-studio/docs/00_Vision/01_WildNest_Product_Requirements_Document.md)  
+> 📜 **Governing Standard:** [STD-DOC-001 Documentation Standard](file:///e:/Animation/wildnest-studio/standards/Documentation_Standard.md)  
+
+---
+
+
 > **Purpose:** Single source of truth for all WildNest Studio canonical documents.
 
 All creative, strategic, production, and operational decisions are documented here.

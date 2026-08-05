@@ -8,6 +8,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [05_Story_Bible/](file:///e:/Animation/wildnest-studio/docs/05_Story_Bible/index.md) ──► `01_Episode_Template.md`  
+> 🎯 **Canonical Source:** [SB-001 Master Story Bible](file:///e:/Animation/wildnest-studio/docs/05_Story_Bible/00_Story_Bible.md)  
+> 📜 **Governing Standard:** [STD-PROD-001 Production Standard](file:///e:/Animation/wildnest-studio/standards/Production_Standard.md)  
+
+---
+
+
 ## 1. Episode Metadata
 
 * **Episode ID:** `[INSERT EPISODE ID, e.g., EP-001]`

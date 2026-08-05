@@ -8,6 +8,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [docs/](file:///e:/Animation/wildnest-studio/docs/index.md) ──► `CHANGELOG.md`  
+> 🎯 **Canonical Source:** [PRD-001 Master PRD](file:///e:/Animation/wildnest-studio/docs/00_Vision/01_WildNest_Product_Requirements_Document.md)  
+> 📜 **Governing Standard:** [STD-DOC-001 Documentation Standard](file:///e:/Animation/wildnest-studio/standards/Documentation_Standard.md)  
+
+---
+
+
 ## 1. Purpose
 
 This document is the canonical historical record of **WildNest Studio**. It tracks the chronological evolution of the studio over time—recording what changed, why it changed, when it changed, who made the decision, and what impact it produced across creative, technical, operational, branding, storytelling, and localization domains.

@@ -9,6 +9,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [prompts/](file:///e:/Animation/wildnest-studio/docs/index.md) ──► `01_Master_Image_Prompt.md`  
+> 🎯 **Canonical Source:** [WPOS-001 AI Production Pipeline OS](file:///e:/Animation/wildnest-studio/docs/09_Production/01_AI_Production_Pipeline.md)  
+> 📜 **Governing Standard:** [STD-PROD-001 Production Standard](file:///e:/Animation/wildnest-studio/standards/Production_Standard.md)  
+
+---
+
+
 ## 1. Executive Summary & Code Architecture
 
 This document establishes the official **Master Image Prompt Code Base (PROMPT-MANIFEST-001)** for Barnaby Q. Whiskers (CHR-001). Engineered by the Principal Prompt Engineer, this manifest is treated as **production source code** rather than ordinary text.

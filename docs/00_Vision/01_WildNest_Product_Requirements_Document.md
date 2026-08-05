@@ -9,6 +9,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [00_Vision/](file:///e:/Animation/wildnest-studio/docs/00_Vision/index.md) ──► `01_WildNest_Product_Requirements_Document.md`  
+> 🎯 **Canonical Source:** [PRD-001 Master PRD](file:///e:/Animation/wildnest-studio/docs/00_Vision/01_WildNest_Product_Requirements_Document.md)  
+> 📜 **Governing Standard:** [STD-DOC-001 Documentation Standard](file:///e:/Animation/wildnest-studio/standards/Documentation_Standard.md)  
+
+---
+
+
 ## How to Read This Document
 
 This is the **highest-level source of truth** for WildNest Studio. If every other document in this repository disappeared, this one should be enough to understand what WildNest is trying to build, why, how, and for whom.

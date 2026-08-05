@@ -8,6 +8,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [04_Characters/](file:///e:/Animation/wildnest-studio/docs/04_Characters/index.md) ──► `00_Character_Bible.md`  
+> 🎯 **Canonical Source:** [CHR-BIBLE-001 Master Character Bible](file:///e:/Animation/wildnest-studio/docs/04_Characters/00_Character_Bible.md)  
+> 📜 **Governing Standard:** [STD-DESIGN-001 Design Standard](file:///e:/Animation/wildnest-studio/standards/Design_Standard.md)  
+
+---
+
+
 ## 1. Executive Summary
 
 This handbook defines the official **Master Character Bible (CHR-BIBLE-001)** for WildNest Studio. It establishes the mandatory design philosophy, psychological frameworks, visual shape language, color discipline, voice architecture, animation mechanics, merchandising guidelines, and quality control systems for creating characters across all WildNest IP franchises (including *Critter Haven Resort*).

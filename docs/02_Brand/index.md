@@ -1,5 +1,13 @@
 # Brand Strategy & Localization Documentation
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [02_Brand/](file:///e:/Animation/wildnest-studio/docs/02_Brand/index.md) ──► `index.md`  
+> 🎯 **Canonical Source:** [BRAND-001 Language & Localization Strategy](file:///e:/Animation/wildnest-studio/docs/02_Brand/Language_and_Localization_Strategy.md)  
+> 📜 **Governing Standard:** [STD-PROD-001 Production Standard](file:///e:/Animation/wildnest-studio/standards/Production_Standard.md)  
+
+---
+
+
 > **Purpose:** Official studio guidelines for brand identity, language specification, subtitle standards, and international localization.
 
 ## Master Document

@@ -1,5 +1,13 @@
 # Branding — Brand Identity & Visual Assets
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [branding/](file:///e:/Animation/wildnest-studio/branding/index.md) ──► `index.md`  
+> 🎯 **Canonical Source:** [PRD-001 Master PRD](file:///e:/Animation/wildnest-studio/docs/00_Vision/01_WildNest_Product_Requirements_Document.md)  
+> 📜 **Governing Standard:** [STD-DOC-001 Documentation Standard](file:///e:/Animation/wildnest-studio/standards/Documentation_Standard.md)  
+
+---
+
+
 > **Purpose:** WildNest Studio brand guidelines, visual identity system, and brand assets.
 
 ## What Belongs Here

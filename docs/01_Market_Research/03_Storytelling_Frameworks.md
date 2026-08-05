@@ -8,6 +8,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [01_Market_Research/](file:///e:/Animation/wildnest-studio/docs/01_Market_Research/index.md) ──► `03_Storytelling_Frameworks.md`  
+> 🎯 **Canonical Source:** [PRD-001 Master PRD](file:///e:/Animation/wildnest-studio/docs/00_Vision/01_WildNest_Product_Requirements_Document.md)  
+> 📜 **Governing Standard:** [STD-RES-001 Research Standard](file:///e:/Animation/wildnest-studio/standards/Research_Standard.md)  
+
+---
+
+
 ## 1. Executive Summary
 
 This research report establishes the structural, narrative, and pacing foundations for WildNest Studio. As an AI-first animation studio, technology grants us high output capability, but storytelling remains our core competitive moat. 

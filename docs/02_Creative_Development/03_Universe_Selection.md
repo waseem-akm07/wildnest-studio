@@ -8,6 +8,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [02_Creative_Development/](file:///e:/Animation/wildnest-studio/docs/index.md) ──► `03_Universe_Selection.md`  
+> 🎯 **Canonical Source:** [CEF-001 Creative Evaluation Framework](file:///e:/Animation/wildnest-studio/docs/02_Creative_Development/Creative_Evaluation_Framework.md)  
+> 📜 **Governing Standard:** [STD-DOC-001 Documentation Standard](file:///e:/Animation/wildnest-studio/standards/Documentation_Standard.md)  
+
+---
+
+
 ## 1. Executive Summary
 
 This document represents the official greenlight decision of the **WildNest Studio Investment Committee**. Moving beyond initial ideation and scoring, the Investment Committee conducted an un-biased, first-principles evaluation of all 100 universe concepts, applying strict CEF-001 weighted scoring rubrics and 5 independent executive perspectives (CEO, Creative Director, Production Director, Marketing Director, Business Director).

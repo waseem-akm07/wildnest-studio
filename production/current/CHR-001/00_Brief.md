@@ -10,6 +10,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [CHR-001/](file:///e:/Animation/wildnest-studio/docs/index.md) ──► `00_Brief.md`  
+> 🎯 **Canonical Source:** [WPOS-001 AI Production Pipeline OS](file:///e:/Animation/wildnest-studio/docs/09_Production/01_AI_Production_Pipeline.md)  
+> 📜 **Governing Standard:** [STD-PROD-001 Production Standard](file:///e:/Animation/wildnest-studio/standards/Production_Standard.md)  
+
+---
+
+
 ## 1. Executive Summary & Production Objective
 
 This document is the official **Character Production Brief (PROD-CHR-001)** for Barnaby Q. Whiskers (CHR-001), the lead protagonist of WildNest Studio's flagship franchise, *Critter Haven Resort*.

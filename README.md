@@ -4,6 +4,43 @@
 
 ---
 
+## Studio Knowledge Graph Navigation
+
+```
+                                  ┌──────────────────────────┐
+                                  │   Studio Master README   │  ◄── (Root Hub)
+                                  └────────────┬─────────────┘
+                                               │
+         ┌─────────────────────────────────────┼─────────────────────────────────────┐
+         ▼                                     ▼                                     ▼
+┌──────────────────┐                 ┌──────────────────┐                 ┌──────────────────┐
+│ Canonical Docs   │                 │ Production OS    │                 │ Reusable Assets  │
+│ [docs/index.md]  │                 │ [production/]    │                 │ [assets/index.md]│
+└────────┬─────────┘                 └────────┬─────────┘                 └────────┬─────────┘
+         │                                    │                                    │
+ ┌───────┴───────┬──────────────┐     ┌───────┴───────┐                    ┌───────┴───────┬──────────────┐
+ ▼               ▼              ▼     ▼               ▼                    ▼               ▼              ▼
+PRD-001       UNI-001        CHR-001 Workflow.md   CHR-001                Characters     Backgrounds     SFX
+[Vision]      [Universe]    [Barnaby][Playbook]    [Sprint]               [Turnarounds]  [Sets]          [Audio]
+```
+
+### Interconnected Quick Reference Matrix
+
+| Domain | Canonical Bible / North Star | Operational Index | Governing Standard | Production Workspace |
+| :--- | :--- | :--- | :--- | :--- |
+| **Vision & Strategy** | [PRD-001 Master PRD](file:///e:/Animation/wildnest-studio/docs/00_Vision/01_WildNest_Product_Requirements_Document.md) | [docs/00_Vision/](file:///e:/Animation/wildnest-studio/docs/00_Vision/index.md) | [STD-DOC-001](file:///e:/Animation/wildnest-studio/standards/Documentation_Standard.md) | [Decision Log](file:///e:/Animation/wildnest-studio/docs/00_Vision/Decision_Log.md) |
+| **Universe & World** | [UNI-001 Universe Bible](file:///e:/Animation/wildnest-studio/docs/03_Universe/01_Universe_Bible.md) | [docs/03_Universe/](file:///e:/Animation/wildnest-studio/docs/03_Universe/index.md) | [STD-DESIGN-001](file:///e:/Animation/wildnest-studio/standards/Design_Standard.md) | [assets/Backgrounds/](file:///e:/Animation/wildnest-studio/assets/Backgrounds/index.md) |
+| **Characters** | [CHR-BIBLE-001 Character Bible](file:///e:/Animation/wildnest-studio/docs/04_Characters/00_Character_Bible.md) | [docs/04_Characters/](file:///e:/Animation/wildnest-studio/docs/04_Characters/index.md) | [STD-DESIGN-001](file:///e:/Animation/wildnest-studio/standards/Design_Standard.md) | [Barnaby Sprint](file:///e:/Animation/wildnest-studio/production/current/CHR-001/00_Brief.md) |
+| **Story & Script** | [SB-001 Master Story Bible](file:///e:/Animation/wildnest-studio/docs/05_Story_Bible/00_Story_Bible.md) | [docs/05_Story_Bible/](file:///e:/Animation/wildnest-studio/docs/05_Story_Bible/index.md) | [STD-PROD-001](file:///e:/Animation/wildnest-studio/standards/Production_Standard.md) | [EP-001 Pilot Brief](file:///e:/Animation/wildnest-studio/episodes/EP-001/00_Episode_Brief.md) |
+| **Art & Style** | [ART-001 Visual Style Guide](file:///e:/Animation/wildnest-studio/docs/06_Art_Direction/01_Visual_Style_Guide.md) | [docs/06_Art_Direction/](file:///e:/Animation/wildnest-studio/docs/06_Art_Direction/index.md) | [STD-DESIGN-001](file:///e:/Animation/wildnest-studio/standards/Design_Standard.md) | [Thumbnail Prompts](file:///e:/Animation/wildnest-studio/prompts/Thumbnail/index.md) |
+| **Language & Dubbing**| [BRAND-001 Language Strategy](file:///e:/Animation/wildnest-studio/docs/02_Brand/Language_and_Localization_Strategy.md) | [docs/02_Brand/](file:///e:/Animation/wildnest-studio/docs/02_Brand/index.md) | [STD-PROD-001](file:///e:/Animation/wildnest-studio/standards/Production_Standard.md) | [Voice Prompts](file:///e:/Animation/wildnest-studio/prompts/Voice/index.md) |
+| **Production Pipeline**| [WPOS-001 Production Pipeline](file:///e:/Animation/wildnest-studio/docs/09_Production/01_AI_Production_Pipeline.md) | [docs/09_Production/](file:///e:/Animation/wildnest-studio/docs/09_Production/index.md) | [STD-PROD-001](file:///e:/Animation/wildnest-studio/standards/Production_Standard.md) | [Workflow Playbook](file:///e:/Animation/wildnest-studio/production/Workflow.md) |
+| **Prompt Engineering**| [Master Prompt Guidelines](file:///e:/Animation/wildnest-studio/production/current/CHR-001/prompts/00_Prompt_Guidelines.md) | [prompts/index.md](file:///e:/Animation/wildnest-studio/prompts/index.md) | [STD-PROMPT-001](file:///e:/Animation/wildnest-studio/standards/Prompt_Standard.md) | [Image Prompts](file:///e:/Animation/wildnest-studio/prompts/Image/index.md) |
+| **Studio Standards** | [Studio Standards Hub](file:///e:/Animation/wildnest-studio/standards/index.md) | [standards/](file:///e:/Animation/wildnest-studio/standards/index.md) | [STD-DOC-001](file:///e:/Animation/wildnest-studio/standards/Documentation_Standard.md) | [Naming Standards](file:///e:/Animation/wildnest-studio/standards/Naming_Convention.md) |
+| **Studio History** | [DOC-CHANGELOG-001](file:///e:/Animation/wildnest-studio/docs/CHANGELOG.md) | [docs/CHANGELOG.md](file:///e:/Animation/wildnest-studio/docs/CHANGELOG.md) | [STD-DOC-001](file:///e:/Animation/wildnest-studio/standards/Documentation_Standard.md) | [MVP Roadmap](file:///e:/Animation/wildnest-studio/docs/09_Production/WildNest_MVP_Roadmap.md) |
+
+---
+
 ## What Is WildNest Studio?
 
 WildNest Studio is an **independent, AI-first animation studio** creating original intellectual property (IP) designed to entertain global audiences for decades.

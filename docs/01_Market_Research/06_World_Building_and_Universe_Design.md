@@ -8,6 +8,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [01_Market_Research/](file:///e:/Animation/wildnest-studio/docs/01_Market_Research/index.md) ──► `06_World_Building_and_Universe_Design.md`  
+> 🎯 **Canonical Source:** [PRD-001 Master PRD](file:///e:/Animation/wildnest-studio/docs/00_Vision/01_WildNest_Product_Requirements_Document.md)  
+> 📜 **Governing Standard:** [STD-RES-001 Research Standard](file:///e:/Animation/wildnest-studio/standards/Research_Standard.md)  
+
+---
+
+
 ## 1. Executive Summary
 
 This research white paper defines the architectural, structural, and creative principles of world-building for WildNest Studio. In long-term animation production, individual episodes are transient, but the fictional universe is the permanent container that holds all intellectual property (IP), character relationships, and commercial value.

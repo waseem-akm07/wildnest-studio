@@ -8,6 +8,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [02_Brand/](file:///e:/Animation/wildnest-studio/docs/02_Brand/index.md) ──► `Language_and_Localization_Strategy.md`  
+> 🎯 **Canonical Source:** [BRAND-001 Language & Localization Strategy](file:///e:/Animation/wildnest-studio/docs/02_Brand/Language_and_Localization_Strategy.md)  
+> 📜 **Governing Standard:** [STD-PROD-001 Production Standard](file:///e:/Animation/wildnest-studio/standards/Production_Standard.md)  
+
+---
+
+
 ## 1. Executive Summary
 
 This document establishes the official **Language and Localization Strategy (BRAND-001)** for WildNest Studio. It defines how every episode script, voice performance, subtitle track, dubbing workflow, and international channel rollout is executed across WildNest IP franchises (including *Critter Haven Resort*).

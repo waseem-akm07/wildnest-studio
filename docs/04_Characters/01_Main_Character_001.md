@@ -10,6 +10,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [04_Characters/](file:///e:/Animation/wildnest-studio/docs/04_Characters/index.md) ──► `01_Main_Character_001.md`  
+> 🎯 **Canonical Source:** [CHR-BIBLE-001 Master Character Bible](file:///e:/Animation/wildnest-studio/docs/04_Characters/00_Character_Bible.md)  
+> 📜 **Governing Standard:** [STD-DESIGN-001 Design Standard](file:///e:/Animation/wildnest-studio/standards/Design_Standard.md)  
+
+---
+
+
 ## 1. Executive Summary
 
 This document is the canonical production reference for **Barnaby Q. Whiskers**, the official protagonist of WildNest Studio’s flagship franchise, *Critter Haven Resort*. Barnaby is a chubby, overly regal, perfectionist Golden Syrian Hamster who serves as the founder and General Manager of *Critter Haven Resort*—a secret luxury pet resort hidden inside a suburban bedroom cage network.

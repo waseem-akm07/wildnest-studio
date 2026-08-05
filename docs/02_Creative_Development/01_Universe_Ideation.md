@@ -8,6 +8,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [02_Creative_Development/](file:///e:/Animation/wildnest-studio/docs/index.md) ──► `01_Universe_Ideation.md`  
+> 🎯 **Canonical Source:** [CEF-001 Creative Evaluation Framework](file:///e:/Animation/wildnest-studio/docs/02_Creative_Development/Creative_Evaluation_Framework.md)  
+> 📜 **Governing Standard:** [STD-DOC-001 Documentation Standard](file:///e:/Animation/wildnest-studio/standards/Documentation_Standard.md)  
+
+---
+
+
 ## 1. Executive Summary
 
 This creative development document establishes the foundational universe ideation, evaluation, and selection architecture for WildNest Studio. In alignment with our long-term vision, we are not building temporary viral content for 2026 algorithms; we are engineering original, scalable intellectual property (IP) capable of remaining entertaining, expandable, and commercially valuable in 2036 and beyond.

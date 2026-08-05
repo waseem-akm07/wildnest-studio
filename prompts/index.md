@@ -1,5 +1,13 @@
 # Prompts — Master Prompt Library
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [prompts/](file:///e:/Animation/wildnest-studio/prompts/index.md) ──► `index.md`  
+> 🎯 **Canonical Source:** [WPOS-001 AI Production Pipeline OS](file:///e:/Animation/wildnest-studio/docs/09_Production/01_AI_Production_Pipeline.md)  
+> 📜 **Governing Standard:** [STD-PROMPT-001 Prompt Standard](file:///e:/Animation/wildnest-studio/standards/Prompt_Standard.md)  
+
+---
+
+
 > **Purpose:** Centralized library of reusable AI prompt templates organized by generation type and AI platform.
 
 Prompts are treated as **production code** — versioned, tested, and archived. A well-crafted prompt template is a permanent production asset.

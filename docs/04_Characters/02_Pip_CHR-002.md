@@ -10,6 +10,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [04_Characters/](file:///e:/Animation/wildnest-studio/docs/04_Characters/index.md) ──► `02_Pip_CHR-002.md`  
+> 🎯 **Canonical Source:** [CHR-BIBLE-001 Master Character Bible](file:///e:/Animation/wildnest-studio/docs/04_Characters/00_Character_Bible.md)  
+> 📜 **Governing Standard:** [STD-DESIGN-001 Design Standard](file:///e:/Animation/wildnest-studio/standards/Design_Standard.md)  
+
+---
+
+
 ## 1. Character Overview
 
 **Pip (CHR-002)** is a hyperactive, lightning-fast Roborovski Dwarf Hamster who serves as the Chief Maintenance Engineer and Lead Mechanic of *Critter Haven Resort*. 

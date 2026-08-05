@@ -8,6 +8,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [09_Production/](file:///e:/Animation/wildnest-studio/docs/09_Production/index.md) ──► `WildNest_MVP_Roadmap.md`  
+> 🎯 **Canonical Source:** [WPOS-001 AI Production Pipeline OS](file:///e:/Animation/wildnest-studio/docs/09_Production/01_AI_Production_Pipeline.md)  
+> 📜 **Governing Standard:** [STD-PROD-001 Production Standard](file:///e:/Animation/wildnest-studio/standards/Production_Standard.md)  
+
+---
+
+
 ## 1. Executive Summary & Core Success Metric
 
 This roadmap establishes the official **MVP Execution Strategy (WPOS-MVP-001)** for WildNest Studio. Formulated by the Chief Operating Officer (COO), this plan prioritizes speed-to-market, asset reusability, and progressive technical validation over premature perfectionism.

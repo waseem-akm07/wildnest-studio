@@ -8,6 +8,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [05_Story_Bible/](file:///e:/Animation/wildnest-studio/docs/05_Story_Bible/index.md) ──► `00_Story_Bible.md`  
+> 🎯 **Canonical Source:** [SB-001 Master Story Bible](file:///e:/Animation/wildnest-studio/docs/05_Story_Bible/00_Story_Bible.md)  
+> 📜 **Governing Standard:** [STD-PROD-001 Production Standard](file:///e:/Animation/wildnest-studio/standards/Production_Standard.md)  
+
+---
+
+
 ## 1. Executive Summary
 
 This handbook is the official **Master Story Bible (SB-001)** for WildNest Studio. It defines the canonical storytelling philosophy, narrative architecture, structural beat-maps, comedy engines, emotional frameworks, season planning systems, running gag architectures, and quality control checklists for all original content across WildNest IP franchises (including *Critter Haven Resort*).

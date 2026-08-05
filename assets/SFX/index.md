@@ -1,5 +1,13 @@
 # SFX — Sound Effects & Foley Library
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [SFX/](file:///e:/Animation/wildnest-studio/assets/SFX/index.md) ──► `index.md`  
+> 🎯 **Canonical Source:** [ART-001 Visual Style Guide](file:///e:/Animation/wildnest-studio/docs/06_Art_Direction/01_Visual_Style_Guide.md)  
+> 📜 **Governing Standard:** [STD-NAMING-001 Naming Convention](file:///e:/Animation/wildnest-studio/standards/Naming_Convention.md)  
+
+---
+
+
 > **Purpose:** Physical foley sounds, environmental audio, and character non-verbal vocal banks.
 
 ## Categories

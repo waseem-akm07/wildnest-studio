@@ -8,6 +8,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [09_Production/](file:///e:/Animation/wildnest-studio/docs/09_Production/index.md) ──► `01_AI_Production_Pipeline.md`  
+> 🎯 **Canonical Source:** [WPOS-001 AI Production Pipeline OS](file:///e:/Animation/wildnest-studio/docs/09_Production/01_AI_Production_Pipeline.md)  
+> 📜 **Governing Standard:** [STD-PROD-001 Production Standard](file:///e:/Animation/wildnest-studio/standards/Production_Standard.md)  
+
+---
+
+
 ## 1. Executive Summary
 
 This manual defines the official **AI Production Pipeline & Operating System (WPOS-001)** for WildNest Studio. It serves as the studio's technical production bible—establishing the complete end-to-end workflow, capability architecture, asset management hierarchy, prompt engineering protocols, character consistency systems, QA audit gates, and cost management structures for transforming raw creative ideas into published YouTube episodes, Shorts, and transmedia assets.

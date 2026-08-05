@@ -1,5 +1,13 @@
 # Story Bible & Narrative Architecture
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [05_Story_Bible/](file:///e:/Animation/wildnest-studio/docs/05_Story_Bible/index.md) ──► `index.md`  
+> 🎯 **Canonical Source:** [SB-001 Master Story Bible](file:///e:/Animation/wildnest-studio/docs/05_Story_Bible/00_Story_Bible.md)  
+> 📜 **Governing Standard:** [STD-PROD-001 Production Standard](file:///e:/Animation/wildnest-studio/standards/Production_Standard.md)  
+
+---
+
+
 > **Purpose:** Storytelling frameworks, comedy engines, narrative architecture, and episode production templates.
 
 ## Canonical Documents

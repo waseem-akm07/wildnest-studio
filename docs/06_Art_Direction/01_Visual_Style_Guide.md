@@ -8,6 +8,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [06_Art_Direction/](file:///e:/Animation/wildnest-studio/docs/06_Art_Direction/index.md) ──► `01_Visual_Style_Guide.md`  
+> 🎯 **Canonical Source:** [ART-001 Visual Style Guide](file:///e:/Animation/wildnest-studio/docs/06_Art_Direction/01_Visual_Style_Guide.md)  
+> 📜 **Governing Standard:** [STD-DESIGN-001 Design Standard](file:///e:/Animation/wildnest-studio/standards/Design_Standard.md)  
+
+---
+
+
 ## 1. Executive Summary
 
 This handbook is the official **Master Visual Style Guide (ART-001)** for WildNest Studio. It serves as the studio's visual constitution—defining the artistic philosophy, target 3D aesthetic, shape language, color language, lighting profiles, material rendering shaders, camera framing rules, YouTube thumbnail CTR strategies, and copy-pasteable AI prompt style guides for all image and video models across WildNest IP franchises (including *Critter Haven Resort*).

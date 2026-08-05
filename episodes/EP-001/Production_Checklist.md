@@ -10,6 +10,14 @@
 
 ---
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [EP-001/](file:///e:/Animation/wildnest-studio/docs/index.md) ──► `Production_Checklist.md`  
+> 🎯 **Canonical Source:** [SB-001 Master Story Bible](file:///e:/Animation/wildnest-studio/docs/05_Story_Bible/00_Story_Bible.md)  
+> 📜 **Governing Standard:** [STD-PROD-001 Production Standard](file:///e:/Animation/wildnest-studio/standards/Production_Standard.md)  
+
+---
+
+
 ## 1. Pre-Production
 
 - [ ] **Story approved** — *6-Beat Hybrid structure locked; passes Hinglish 8-word rule and Mute Test.*

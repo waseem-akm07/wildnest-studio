@@ -1,5 +1,13 @@
 # Business Strategy & Monetization (Future Expansion)
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [13_Business/](file:///e:/Animation/wildnest-studio/docs/13_Business/index.md) ──► `index.md`  
+> 🎯 **Canonical Source:** [PRD-001 Master PRD](file:///e:/Animation/wildnest-studio/docs/00_Vision/01_WildNest_Product_Requirements_Document.md)  
+> 📜 **Governing Standard:** [STD-DOC-001 Documentation Standard](file:///e:/Animation/wildnest-studio/standards/Documentation_Standard.md)  
+
+---
+
+
 > **Purpose:** Studio financial modeling, monetization roadmaps, licensing frameworks, consumer products, and gaming expansion.
 
 ## 5-Phase Revenue Strategy

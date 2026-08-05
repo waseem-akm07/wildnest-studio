@@ -1,5 +1,13 @@
 # Production — Active Production Workspace
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [production/](file:///e:/Animation/wildnest-studio/production/index.md) ──► `index.md`  
+> 🎯 **Canonical Source:** [WPOS-001 AI Production Pipeline OS](file:///e:/Animation/wildnest-studio/docs/09_Production/01_AI_Production_Pipeline.md)  
+> 📜 **Governing Standard:** [STD-PROD-001 Production Standard](file:///e:/Animation/wildnest-studio/standards/Production_Standard.md)  
+
+---
+
+
 > **Purpose:** All active sprint work happens here. This is the operational workspace for current production.
 
 ## Structure

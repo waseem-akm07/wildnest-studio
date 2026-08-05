@@ -1,5 +1,13 @@
 # Universe & World-Building Documentation
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [03_Universe/](file:///e:/Animation/wildnest-studio/docs/03_Universe/index.md) ──► `index.md`  
+> 🎯 **Canonical Source:** [UNI-001 Critter Haven Resort Universe Bible](file:///e:/Animation/wildnest-studio/docs/03_Universe/01_Universe_Bible.md)  
+> 📜 **Governing Standard:** [STD-DESIGN-001 Design Standard](file:///e:/Animation/wildnest-studio/standards/Design_Standard.md)  
+
+---
+
+
 > **Purpose:** Master canonical world-building bibles, geographic layouts, scavenged object rules, and lore for WildNest IP franchises.
 
 ## Master Canonical Document

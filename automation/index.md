@@ -1,5 +1,13 @@
 # Automation — Production Pipeline Scripts
 
+> **Navigation & Lineage:**  
+> 📍 **Breadcrumbs:** [Studio README](file:///e:/Animation/wildnest-studio/README.md) ──► [automation/](file:///e:/Animation/wildnest-studio/automation/index.md) ──► `index.md`  
+> 🎯 **Canonical Source:** [WPOS-001 AI Production Pipeline OS](file:///e:/Animation/wildnest-studio/docs/09_Production/01_AI_Production_Pipeline.md)  
+> 📜 **Governing Standard:** [STD-CODE-001 Coding Standard](file:///e:/Animation/wildnest-studio/standards/Coding_Standard.md)  
+
+---
+
+
 > **Purpose:** Python scripts and automation tools that accelerate the production pipeline.
 
 ## Planned Automation
