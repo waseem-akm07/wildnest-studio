@@ -36,8 +36,8 @@ WildNest Studio follows **Semantic Versioning (SemVer 2.0.0)** adapted for anima
 
 ## 3. Current Version & Status
 
-* **Current Studio Version:** `v1.0.0`
-* **Release Status:** ⭐ **Studio Foundation Complete**
+* **Current Studio Version:** `v1.1.0`
+* **Release Status:** ⭐ **Workspace Optimization & Operating System Complete**
 * **Active Flagship Franchise:** ***Critter Haven Resort*** (CEF Score: `96.0 / 100`)
 * **Primary Protagonist:** **Barnaby Q. Whiskers (CHR-001)**
 * **Target Distribution Platform:** YouTube Long-Form + YouTube Shorts (Global Family Co-Viewing)
@@ -45,6 +45,33 @@ WildNest Studio follows **Semantic Versioning (SemVer 2.0.0)** adapted for anima
 ---
 
 ## 4. Release History
+
+---
+
+### `# v1.1.0` — Master PRD Creation, Workspace Restructuring & Engineering Standards Lock
+> **Release Date:** 2026-08-06  
+> **Milestone:** Master PRD (PRD-001), Studio README Overhaul, 7 Studio Standards, & Workspace Audit  
+
+#### Added & Modified Documents
+* **Master PRD (PRD-001):** Created `docs/00_Vision/01_WildNest_Product_Requirements_Document.md` as the single canonical North Star for WildNest Studio.
+* **Studio Master README:** Overhauled `README.md` into the operational command center covering vision, IP rules, characters, art style, Hinglish strategy, 14-stage pipeline, tool matrix, quality gates, roadmap, and operating principles.
+* **Studio Standards Framework (`standards/`):** Created 7 operational standards:
+  * `STD-NAMING-001`: Naming Conventions (`standards/Naming_Convention.md`)
+  * `STD-PROD-001`: Production Standards (`standards/Production_Standard.md`)
+  * `STD-DOC-001`: Documentation Standards (`standards/Documentation_Standard.md`)
+  * `STD-DESIGN-001`: Visual Design Standards (`standards/Design_Standard.md`)
+  * `STD-PROMPT-001`: Prompt Engineering Standards (`standards/Prompt_Standard.md`)
+  * `STD-CODE-001`: Automation & Coding Standards (`standards/Coding_Standard.md`)
+  * `STD-RES-001`: Research & Evidence Standards (`standards/Research_Standard.md`)
+* **New Character Specification:** Created `docs/04_Characters/02_Pip_CHR-002.md` for Pip the Dwarf Hamster (Lead Mechanic).
+* **Directory Index Guides:** Rewrote 23 `index.md` files across `assets/`, `docs/`, `episodes/`, `production/`, `prompts/`, `standards/`, `automation/`, `tools/`, `branding/`, `experiments/`, `research/`, and `templates/`.
+
+#### Cleaned & Removed (Workspace Audit)
+* Removed duplicate `00_Episode_Brief.md` in `docs/10_Episodes/` and duplicate `Production_Checklist.md` in `production/current/EP-001/`.
+* Removed 5 obsolete pre-greenlight character stubs (`Lion.md`, `Monkey.md`, `Owl.md`, `Panda.md`, `Rhino.md`).
+* Removed 7 redundant universe stubs in `docs/03_Universe/` already covered in `UNI-001`.
+* Removed redundant empty directories `docs/07_AI_Pipeline/` and `docs/08_Tools/` (covered by `WPOS-001`).
+* Removed 6 empty prompt stubs in `prompts/`.
 
 ---
 
