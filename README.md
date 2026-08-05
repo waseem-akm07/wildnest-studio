@@ -267,28 +267,70 @@ Every WildNest video follows a strict 14-stage sequential chain from idea to ret
 
 ---
 
-## Tool Stack (Capability-First, Vendor-Agnostic)
+## AI & Tool Stack Architecture — How Videos Are Generated
 
-Tools change. Capabilities are permanent. Every stage has a primary tool and two fallbacks.
+WildNest Studio operates a **capability-first, vendor-agnostic AI toolchain**. We support both **Pro/Paid Tier** tools for max speed and **100% Free / $0 Budget Tier (Open-Source & Freemium)** tools so anyone can produce broadcast-quality episodes for **$0 USD compute cost**.
 
 ```
-CAPABILITY                  PRIMARY TOOL                  FALLBACK 1                FALLBACK 2
-─────────────────────────   ──────────────────────────    ───────────────────────   ──────────────────────
-Creative & Scripting        Claude 3.5 Sonnet             GPT-4o                    Local Llama 3 / DeepSeek
-Image Generation            Flux Dev 1.0 (Local GPU)      Midjourney v6.1           SDXL Turbo / Ideogram
-Character Consistency       ControlNet + Custom LoRA      Reference Sheet Prompts   IP-Adapter Workflows
-Video Generation            Google Veo / Runway Gen-3     Luma Dream Machine        Kling AI / Hailuo AI
-Voice Synthesis             ElevenLabs Professional       Bark (Open Source)        Local Chatterbox TTS
-AI Lip-Sync                 Wav2Lip / HeyGen              LivePortrait              ComfyUI LiveSync
-NLE Video Editing           DaVinci Resolve Studio 19     Adobe Premiere Pro        Final Cut Pro
-Audio Editing               DaVinci Resolve Fairlight     Adobe Audition            Reaper
-Subtitling                  Whisper AI                    Descript                  CapCut Pro
-Thumbnail Design            Photoshop + Flux              Canva Pro                 Figma
-Asset Management            Python Custom Scripts         Airtable                  Notion DB
-Analytics                   YouTube Studio Dashboard      TubeBuddy                 VidIQ
-LoRA Training               Kohya_ss (Local RTX)          Replicate Cloud           ComfyUI LoRA Node
-Pose Control                ControlNet OpenPose           Depth Anything V2         Custom Pose Libraries
+CAPABILITY                  PRIMARY (PRO/PAID)            SECONDARY (CLOUD)         100% FREE / $0 BUDGET TIER
+─────────────────────────   ──────────────────────────    ───────────────────────   ───────────────────────────────────
+1. Creative & Scripting     Claude 3.5 Sonnet             GPT-4o                    DeepSeek V3 (Free) / Ollama Llama 3.3 ($0)
+2. Image Generation         Flux Dev 1.0 (Local GPU)      Midjourney v6.1           ComfyUI Flux/SDXL ($0) / Leonardo Free ($0)
+3. Character Consistency    ControlNet + Custom LoRA      Reference Sheet Prompts   ComfyUI OpenPose + IP-Adapter ($0)
+4. Video Animation          Google Veo / Runway Gen-3     Luma Dream Machine        Hailuo AI / Kling Free / AnimateDiff ($0)
+5. Voice Synthesis          ElevenLabs Professional       Bark TTS (Open Source)    Edge-TTS (Free Neural) / Coqui TTS ($0)
+6. AI Lip-Sync Alignment    Wav2Lip / HeyGen              LivePortrait              Wav2Lip Open-Source / SadTalker ($0)
+7. NLE Video Editing        DaVinci Resolve Studio 19     Adobe Premiere Pro        DaVinci Resolve (Free) / CapCut Free ($0)
+8. Audio Mixing & SFX       DaVinci Resolve Fairlight     Adobe Audition            Audacity ($0) / Freesound.org ($0)
+9. Subtitle Generation      Whisper AI (Local)            Descript                  Whisper AI CLI ($0) / SubtitleEdit ($0)
+10. Thumbnail Design        Photoshop + Flux              Canva Pro                 Photopea ($0) / GIMP ($0) / Krita ($0)
+11. Asset Management        Python Custom Scripts         Airtable                  Python Local Scripts ($0) / Notion Free ($0)
+12. Channel Analytics       YouTube Studio Dashboard      TubeBuddy                 YouTube Studio Native ($0)
+13. LoRA Model Training     Kohya_ss (Local RTX)          Replicate Cloud           Kohya_ss Local ($0) / Google Colab Free ($0)
+14. Pose & Motion Control   ControlNet OpenPose           Depth Anything V2         ComfyUI Depth Anything V2 ($0)
 ```
+
+### Detailed AI & Tool Workflow Breakdown (Pro vs 100% Free Tier)
+
+#### 1. 📜 Script & Story Generation (AI)
+- **Pro / Paid Tier:** **Claude 3.5 Sonnet** (for long-form screenplay drafting) & **GPT-4o**.
+- **100% Free / $0 Budget Tier:** **DeepSeek V3** (Free web AI) & **Ollama Llama 3.3** (Run 100% offline on your PC for $0).
+- **Workflow:** Input episode brief → Generate 6-Beat screenplay → Enforce 8-word dialogue rule → Verify Silent Mute Test.
+
+#### 2. 🎨 Character & Environment Image Generation (AI)
+- **Pro / Paid Tier:** **Midjourney v6.1** & **Flux Pro API**.
+- **100% Free / $0 Budget Tier:** **ComfyUI + Flux 1.0 Dev / SDXL** (Run locally on GPU for $0) & **Leonardo AI / SeaArt** (Free daily credits).
+- **Workflow:** Input prompt + character LoRA (`<lora:barnaby_v1:0.8>`) + ControlNet pose mask → Render 4K master PNGs.
+
+#### 3. 🎬 24fps Video Animation Generation (AI)
+- **Pro / Paid Tier:** **Google Veo** & **Runway Gen-3 Alpha**.
+- **100% Free / $0 Budget Tier:** **Hailuo AI (MiniMax)** (Free high-quality generation), **Kling AI** (Daily free credits), **Luma Dream Machine** (Free tier credits), & **AnimateDiff / SVD** (ComfyUI local rendering for $0).
+- **Workflow:** Input static 4K image frame + motion prompt → Generate 24fps MP4 video clip (with 1.5s reaction holds).
+
+#### 4. 🎙️ Voice Synthesis & Non-Verbal Soundbanks (AI)
+- **Pro / Paid Tier:** **ElevenLabs Professional** (Voice cloning with locked pitch/timbre).
+- **100% Free / $0 Budget Tier:** **Microsoft Edge-TTS** (Unlimited free high-quality neural voices in Hinglish/Hindi/English for $0), **Bark TTS** (Open Source), & **Coqui TTS**.
+- **Workflow:** Synthesize Hinglish dialogue WAV stems + non-verbal vocal squeaks (8 locked sounds: squeak, gasp, groan, chirp, hum, grunt, sigh, giggle).
+
+#### 5. 👄 AI Lip-Sync Alignment
+- **Pro / Paid Tier:** **HeyGen AI** & **LivePortrait Pro**.
+- **100% Free / $0 Budget Tier:** **Wav2Lip (Open Source)** (Run locally in Python/ComfyUI for $0) & **SadTalker** (Open Source $0).
+- **Workflow:** Align character mouth geometry to localized speech audio stems without changing body animation frames.
+
+#### 6. 📝 Multi-Language Subtitle Generation (AI)
+- **Pro / Paid Tier:** **Descript** & **CapCut Pro**.
+- **100% Free / $0 Budget Tier:** **Whisper AI CLI** (Run locally on Python for 100% free timecoded SRTs) & **SubtitleEdit** ($0).
+- **Workflow:** Generate 3 locked subtitle tracks: Track 1 (Hinglish Roman), Track 2 (Hindi Devanagari), Track 3 (English SDH).
+
+#### 7. ✂️ Editing, Audio Mixing & Assembly (NLE)
+- **Pro / Paid Tier:** **DaVinci Resolve Studio 19** & **Adobe Premiere Pro**.
+- **100% Free / $0 Budget Tier:** **DaVinci Resolve (Free Version)** (100% free professional editor with Fairlight audio & fusion nodes), **CapCut Free**, & **Kdenlive** (Open Source $0).
+- **Workflow:** Assemble video clips + dialogue stems + music bed (-14 LUFS) + SFX → Apply 8-Gate QA Audit → Export master video.
+
+#### 8. 🖼️ Thumbnail Design
+- **Pro / Paid Tier:** **Photoshop CC** + **Canva Pro**.
+- **100% Free / $0 Budget Tier:** **Photopea** (100% free web Photoshop alternative $0), **GIMP**, **Krita**, & **Canva Free**.
+- **Workflow:** 60% emotion face + 30% vibrant background + 10% prop → 2 words bold 3D yellow text.
 
 ---
 
