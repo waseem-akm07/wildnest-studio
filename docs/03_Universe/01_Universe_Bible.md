@@ -220,6 +220,16 @@ Tertiary: Pulley-Driven Teacup Elevators & Rubber-Band Ziplines
 * **Paper-Clip Mails:** Rolling tiny paper notes inside plastic beads down gravity tubes.
 * **Visual Flag Signals:** Using miniature cocktail umbrellas on the roof to signal the Backyard Squad.
 
+### 17.1 Language & Communication
+
+* The official spoken language policy for the universe is defined in `Language_and_Localization_Strategy.md`.
+* The universe is designed for **Hinglish-first storytelling** (Hindi-first with natural conversational English words).
+* Stories should remain understandable through character actions even if dialogue is muted.
+* Dialogue enhances storytelling but should never be required to understand the main plot.
+* Future multilingual dubbing is an official design requirement.
+
+**Reference:** `docs/02_Brand/Language_and_Localization_Strategy.md`
+
 ---
 
 ## 18. Food & Lifestyle
