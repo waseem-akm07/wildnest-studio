@@ -107,6 +107,7 @@ A secret pet resort operates inside a plastic hamster cage. The human leaves at 
 
 ## Quick Links
 
+- 📖 [Manual Production Guide](file:///e:/Animation/wildnest-studio/MANUAL_PRODUCTION_GUIDE.md) — Step-by-step video & Shorts generation manual
 - 🌍 [World Bible](file:///e:/Animation/wildnest-studio/bible/world.md) — Universe rules & locations
 - 🎭 [Characters](file:///e:/Animation/wildnest-studio/bible/characters.md) — All character profiles & AI prompts
 - 🎨 [Style Guide](file:///e:/Animation/wildnest-studio/bible/style-guide.md) — Colors, lighting, camera rules

@@ -1,9 +1,10 @@
 # Episode Script
 
 > **Series:** Critter Haven Resort
+> **Format & Aspect Ratio:** **Full Episode — 16:9 (Cinematic Widescreen)**
 > **Language:** Hinglish (Hindi grammar + everyday English words)
 > **Dialogue Rule:** Max 8 words per line · Keep it simple · 6th-grade reading level
-> **Visual Rule:** 80% visual storytelling, 20% dialogue · Must pass the Mute Test
+> **Visual Rule:** 80% visual storytelling, 20% dialogue · Must pass the Mute Test · Horizontal staging for running/chasing
 > **Hinglish Examples:**
 > - *"Boss, ye mission toh fail ho gaya!"*
 > - *"Hamara plan perfect hai, don't worry!"*

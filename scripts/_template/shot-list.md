@@ -1,6 +1,7 @@
 # Episode Shot List
 
 > **Series:** Critter Haven Resort
+> **Mandatory Aspect Ratio:** **16:9 (Cinematic Widescreen)** — All image prompts MUST end with `--ar 16:9`, and video prompts MUST specify widescreen framing.
 > **Camera Rule:** Keep camera at **critter eye-level** (2–4 inches off ground). Simulate 35mm–50mm macro lenses.
 > **Framing Rule:** Wide-medium stationary shots for physical comedy to let movement play out.
 > **AI Prompts Note:** Copy base character/environment prompts from [prompts/image-prompts.md](file:///e:/Animation/wildnest-studio/prompts/image-prompts.md) and modify scene specifics.
