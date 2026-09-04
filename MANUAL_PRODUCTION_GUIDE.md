@@ -43,12 +43,16 @@
    * `concept.md` — Episode idea & 6-Beat outline.
    * `script.md` — Dialogue & action beats.
    * `shot-list.md` — Timecoded shots with image & video prompts.
+4. **Mandatory Companion Guide:** When the shot list is finalized, generate `scripts/EP-[XXX]/Production_Guide.md` with the 4 actionable steps (tools, links, prompt copy boxes, CapCut assembly).
 
 ### For YouTube Shorts (15s – 60s, 9:16 Vertical):
 1. Open the episode folder: `scripts/EP-[XXX]/shorts/`
 2. Duplicate `scripts/_template/shorts/short_template.md`
 3. Save it as `scripts/EP-[XXX]/shorts/SH-[Number]_[Title].md`
    * Example: `scripts/EP-001/shorts/SH-01_Cheek_Panic.md`
+4. **Mandatory Companion Guide:** Always generate a companion guide file:
+   * Example: `scripts/EP-001/shorts/SH-01_Production_Guide.md`
+   * Contains the 4 exact steps: Tool links, Image prompts + save paths, Video prompts + upload instructions, Voice lines, and CapCut assembly checklist.
 
 ---
 
@@ -185,13 +189,26 @@ Image-to-Video is a mode inside AI video generators where you **upload an image 
 
 ## 5. AI TOOLS DIRECTORY (FREE VS. PAID)
 
+### 🚀 Quick Access: The Best Free Tools to Open in Your Browser
+
+Bookmark these 4 core tools for daily manual generation:
+
+* **For Images:** [Leonardo.ai](https://leonardo.ai/) (150 free daily credits, excellent 3D Pixar style) OR [Flux via Tensor.art / Fal.ai](https://tensor.art/).
+* **For Video Animation:** [Kling AI](https://klingai.com/) OR [Hailuo AI (Minimax)](https://hailuoai.video/) (Both give free daily generations and have the best character physics).
+* **For Voices:** [ElevenLabs](https://elevenlabs.io/) (Free tier with realistic expressive voices) OR Microsoft Edge-TTS (100% Free).
+* **For Editing:** [CapCut](https://www.capcut.com/) (Free desktop or mobile app with one-click animated captions).
+
+---
+
+### Comprehensive Tools Comparison Matrix
+
 | Production Stage | Free / Budget Option | Paid / Professional Option | Notes |
 |:---|:---|:---|:---|
 | **1. Brainstorm & Prompts** | **Gemini (Free) / DeepSeek V3** | **Claude 3.7 Sonnet / ChatGPT Plus** | Free models work great when fed `bible/` files. |
-| **2. Keyframe Images** | **Flux.1 Schnell / Leonardo.ai (Daily Free Credits)** | **Midjourney v6.1 / Flux.1 Pro** | Always specify `--ar 16:9` or `--ar 9:16`. |
-| **3. Video Animation** | **Kling AI (Daily Free Credits) / Hailuo AI (Minimax Free)** | **Runway Gen-3 Alpha / Kling Pro / Luma Dream Machine** | Always use **Image-to-Video** mode for consistency. |
-| **4. Voiceover (TTS)** | **Microsoft Edge-TTS (100% Free via Python/Web)** | **ElevenLabs (Starter/Creator Plan)** | ElevenLabs gives the highest emotional range. |
-| **5. Video Editing** | **CapCut (Desktop/Mobile - Free) / DaVinci Resolve (Free)** | **DaVinci Resolve Studio / Premiere Pro** | CapCut has the best free one-click auto-captions. |
+| **2. Keyframe Images** | **[Leonardo.ai](https://leonardo.ai/) / [Flux via Tensor.art](https://tensor.art/)** | **Midjourney v6.1 / Flux.1 Pro** | Always specify `--ar 16:9` or `--ar 9:16`. |
+| **3. Video Animation** | **[Kling AI](https://klingai.com/) / [Hailuo AI](https://hailuoai.video/)** | **Runway Gen-3 Alpha / Kling Pro / Luma Dream Machine** | Always use **Image-to-Video** mode for consistency. |
+| **4. Voiceover (TTS)** | **Microsoft Edge-TTS / [ElevenLabs Free](https://elevenlabs.io/)** | **ElevenLabs (Starter/Creator Plan)** | ElevenLabs gives the highest emotional range. |
+| **5. Video Editing** | **[CapCut](https://www.capcut.com/) (Free) / DaVinci Resolve (Free)** | **DaVinci Resolve Studio / Premiere Pro** | CapCut has the best free one-click auto-captions. |
 | **6. Sound Effects (SFX)** | **Freesound.org / Pixabay Audio (Royalty-Free)** | **Epidemic Sound / Artlist** | Search: "cartoon squeak", "slide whistle", "splash". |
 
 ---
