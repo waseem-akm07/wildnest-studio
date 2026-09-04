@@ -1,10 +1,10 @@
-# SH-01 Step-by-Step Production Guide
+# SH-01 Step-by-Step Production Guide (15s)
 
 > **Project:** Critter Haven Resort — SH-01 "Barnaby's Water Leak Panic"  
-> **Source Script:** [SH-01_Cheek_Panic.md](SH-01_Cheek_Panic.md)  
+> **Source Script:** [SH-01_15s_Cheek_Panic.md](SH-01_15s_Cheek_Panic.md)  
 > **Format:** YouTube Short (9:16 Vertical)  
 > **Duration:** 15 Seconds (3 Video Clips)  
-> **Target Output:** `output/SH-01_Cheek_Panic.mp4`
+> **Target Output:** `output/SH-01_15s_Cheek_Panic.mp4`
 
 Follow these 4 exact steps to generate and assemble this Short manually:
 

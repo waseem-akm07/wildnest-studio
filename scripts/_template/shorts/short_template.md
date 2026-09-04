@@ -1,9 +1,11 @@
-# SH-[XX] — "[Short Title]"
+# SH-[XX]_[Duration] — "[Short Title]"
 
 > **Series:** Critter Haven Resort  
 > **Parent Episode:** [EP-XXX](../../concept.md)  
 > **Format:** YouTube Short / Instagram Reel / TikTok  
 > **Mandatory Aspect Ratio:** **9:16 (Vertical)** — All AI Image Prompts MUST end with `--ar 9:16`, and all AI Video Prompts MUST specify vertical framing.  
+> **Naming Standard:** `SH-[XX]_[Duration]_[Title].md` and companion `SH-[XX]_[Duration]_Production_Guide.md` (e.g. `SH-01_15s_...` or `SH-02_60s_...`).  
+> **Mandatory Companion Guide:** When this Short script is finalized, the scriptwriter MUST also generate its companion guide with the 4 manual execution steps.  
 > **Duration:** [15s / 30s / 60s]  
 > **Target Audience Emotion:** [Humor / Cuteness / Curiosity]
 

@@ -1,10 +1,11 @@
-# SH-60 — "The Grand Opening Chaos" (60s Vertical Story Cut)
+# SH-02 — "The Grand Opening Chaos" (60s Vertical Story Cut)
 
 > **Series:** Critter Haven Resort  
 > **Parent Episode:** [EP-001](../../concept.md)  
 > **Format:** YouTube Short / Instagram Reel / TikTok  
 > **Aspect Ratio:** 9:16 Vertical  
 > **Duration:** Exactly 60 Seconds (10 Fast-Paced Shots)  
+> **Production Guide:** [SH-02_Production_Guide.md](SH-02_Production_Guide.md)  
 > **Pacing:** High-energy slapstick comedy with full 6-Beat mini arc
 
 ---

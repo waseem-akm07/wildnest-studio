@@ -2,6 +2,7 @@
 
 > **Series:** Critter Haven Resort
 > **Format & Aspect Ratio:** **Full Episode — 16:9 (Cinematic Widescreen)**
+> **Production Rule:** Once the script and shot list are completed, the scriptwriter must ALWAYS generate the episode's companion **`Production_Guide.md`** file with the 4 step-by-step generation instructions.
 > **Language:** Hinglish (Hindi grammar + everyday English words)
 > **Dialogue Rule:** Max 8 words per line · Keep it simple · 6th-grade reading level
 > **Visual Rule:** 80% visual storytelling, 20% dialogue · Must pass the Mute Test · Horizontal staging for running/chasing
