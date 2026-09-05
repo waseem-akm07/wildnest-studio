@@ -60,11 +60,40 @@ wildnest-studio/
 │   ├── _template/            ← Copy this for each new episode (pre-loaded with cast & Hinglish rules)
 │   │   ├── concept.md
 │   │   ├── script.md
-│   │   └── shot-list.md
-│   └── EP-001/               ← First episode: "The Grand Opening Chaos"
+│   │   ├── shot-list.md
+│   │   └── shorts/
+│   │       ├── short_template.md
+│   │       └── short_production_guide_template.md
+│   ├── EP-001/               ← First episode: "The Grand Opening Chaos"
+│   │   ├── concept.md
+│   │   ├── script.md
+│   │   ├── shot-list.md
+│   │   ├── Production_Guide.md   ← Step-by-step image/video/voice/edit instructions
+│   │   └── shorts/
+│   │       ├── SH-01_15s_[Title].md          ← 15s viral Short script (9:16)
+│   │       ├── SH-01_15s_Production_Guide.md ← Short generation steps
+│   │       ├── SH-02_60s_[Title].md          ← 60s full story cut (9:16)
+│   │       └── SH-02_60s_Production_Guide.md
+│   ├── EP-002/               ← Second episode: "The King's Arrival"
+│   │   ├── concept.md
+│   │   ├── script.md
+│   │   ├── shot-list.md
+│   │   ├── Production_Guide.md
+│   │   └── shorts/
+│   │       ├── SH-01_15s_[Title].md
+│   │       ├── SH-01_15s_Production_Guide.md
+│   │       ├── SH-02_60s_[Title].md
+│   │       └── SH-02_60s_Production_Guide.md
+│   └── EP-003/               ← Third episode: "The Button Maniac"
 │       ├── concept.md
 │       ├── script.md
-│       └── shot-list.md
+│       ├── shot-list.md
+│       ├── Production_Guide.md
+│       └── shorts/
+│           ├── SH-01_15s_[Title].md
+│           ├── SH-01_15s_Production_Guide.md
+│           ├── SH-02_60s_[Title].md
+│           └── SH-02_60s_Production_Guide.md
 │
 ├── prompts/                  ← AI prompts (copy-paste ready)
 │   ├── image-prompts.md
