@@ -84,15 +84,25 @@ wildnest-studio/
 │   │       ├── SH-01_15s_Production_Guide.md
 │   │       ├── SH-02_60s_[Title].md
 │   │       └── SH-02_60s_Production_Guide.md
-│   └── EP-003/               ← Third episode: "The Button Maniac"
+│   ├── EP-003/               ← Third episode: "The Button Maniac"
+│   │   ├── concept.md
+│   │   ├── script.md
+│   │   ├── shot-list.md
+│   │   ├── Production_Guide.md
+│   │   └── shorts/
+│   │       ├── SH-01_15s_[Title].md
+│   │       ├── SH-01_15s_Production_Guide.md
+│   │       ├── SH-02_60s_[Title].md
+│   │       └── SH-02_60s_Production_Guide.md
+│   └── EP-004/               ← Fourth episode: "The Great Bao Blockage"
 │       ├── concept.md
 │       ├── script.md
 │       ├── shot-list.md
 │       ├── Production_Guide.md
 │       └── shorts/
-│           ├── SH-01_15s_[Title].md
+│           ├── SH-01_15s_Sneaky_Snacking.md
 │           ├── SH-01_15s_Production_Guide.md
-│           ├── SH-02_60s_[Title].md
+│           ├── SH-02_60s_Bao_Blockage_Cut.md
 │           └── SH-02_60s_Production_Guide.md
 │
 ├── prompts/                  ← AI prompts (copy-paste ready)
